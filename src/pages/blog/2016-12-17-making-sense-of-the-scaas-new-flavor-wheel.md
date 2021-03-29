@@ -11,4 +11,19 @@ tags:
   - trottinett
   - zero10x
 ---
+
+
 ![VSETT 10+](/img/bd7030b3-598f-49cb-87a6-4f16cd833032.jpeg "SerialScooters VSETT 10+ TECHLIFE Zero 10X")
+
+# https://serialscooters.fr
+
+# SerialScooters 
+
+Vendeur de trottinette électrique 
+
+##### Vsett 10+\
+Techlife \
+Zero 10X\
+Techlife X7S \
+Techlife X9 \
+Zero 11X
