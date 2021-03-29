@@ -7,9 +7,9 @@ subheading: Meilleur trottinettes électriques sur SerialScooters Marques VSETT,
   Techlife, Zero
 mainpitch:
   title: "Trottinette électrique SerialScooters "
-  description: |-
+  description: >-
     
-    Meilleur trottinettes électriques sur SerialScooters 
+    Meilleur trottinettes électriques sur SerialScooters https://serialscooters.fr
 description: "Meilleur trottinettes électriques sur SerialScooters "
 intro:
   blurbs: []
